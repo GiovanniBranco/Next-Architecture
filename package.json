@@ -1,0 +1,17 @@
+{
+  "name": "next-architecture",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "setup/*",
+      "packages/*",
+      "projects/*"
+    ]
+  },
+  "scripts": {
+    "web-public": "yarn workspace @next-architecture/web-public",
+    "dev:web-public": "yarn web-public dev"
+  }
+}
