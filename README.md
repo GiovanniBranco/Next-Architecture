@@ -1,2 +1,2 @@
 # Next-Architecture
- Project to learn about Frontend Architecture on NextJS
+ Project to learn about Frontend MonoRepo Architecture on NextJS
