@@ -1,0 +1,3 @@
+{
+  "extends": "@next-architecture/tsconfig-commons/base.json"
+}

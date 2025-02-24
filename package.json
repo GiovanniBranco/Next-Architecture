@@ -12,6 +12,9 @@
   },
   "scripts": {
     "web-public": "yarn workspace @next-architecture/web-public",
-    "dev:web-public": "yarn web-public dev"
+    "dev:web-public": "yarn web-public dev",
+    "start:web-public": "yarn web-public start",
+    "build:web-public": "yarn web-public build",
+    "design-system": "yarn workspace @next-architecture/design-system"
   }
 }

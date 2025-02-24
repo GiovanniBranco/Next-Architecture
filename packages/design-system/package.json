@@ -1,9 +1,11 @@
 {
-  "name": "@next-architecture/utils",
+  "name": "@next-architecture/design-system",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@types/styled-components": "^5.1.34",
+    "styled-components": "^6.1.15",
     "@next-architecture/tsconfig-commons": "*"
   }
 }
